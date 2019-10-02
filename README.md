@@ -1,2 +1,2 @@
 # mains-vib-speed
-Arduino speed control for mains-powered motors
+Electronic circuit and Arduino sketch for speed control of mains-powered motors - like the classic Hitachi wand.
