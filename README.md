@@ -1,8 +1,12 @@
 # mains-vib-speed
 Electronic circuit and Arduino sketch for speed control of mains-powered motors - like the classic Hitachi wand.
 
-WARNING
+WARNING<br/>
 The most important thing during construction, testing and usage of this design is to always maintain sufficient electrical separation and insulation between the mains voltage side and the microcontroller side. Since this circuit works with potentially deadly voltages, all applicable precautions must be taken.
+
+EXPECTATION MANAGEMENT</br>
+This is just a demonstrator. The electronics can be improved and the software is absolutely barebones.</br>
+See it in action [on YouTube](https://www.youtube.com/watch?v=LFKG1e9KCeg).
 
 Remarks (refer to the schematic):
 * Pins 1 and 2 of the SFH620 optoisolator are equivalent; they may be swapped if that is convenient for PCB layout.
